@@ -1,8 +1,3 @@
-Aqui está o arquivo `README.md` em Markdown para o código que você forneceu:
-
----
-
-```markdown
 # Envio Automático de Arquivos no WhatsApp
 
 Este script automatiza o envio de arquivos para um grupo específico no WhatsApp Web em um dia e horário pré-definidos. Ele utiliza o Selenium para controlar o navegador e realizar as ações necessárias.
@@ -27,7 +22,7 @@ Este script automatiza o envio de arquivos para um grupo específico no WhatsApp
 2. **Selenium**: Instale a biblioteca Selenium:
    ```bash
    pip install selenium
-   ```
+   
 3. **WebDriver**: Baixe o WebDriver correspondente ao seu navegador (por exemplo, [ChromeDriver](https://sites.google.com/chromium.org/driver/) para o Google Chrome) e defina o caminho no script.
 
 ### Configuração
@@ -91,4 +86,3 @@ Este projeto está licenciado sob a [MIT License](LICENSE).
 
 [Seu Nome]  
 [GitHub](https://github.com/seu-usuario)
-```
